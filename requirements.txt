@@ -1,5 +1,5 @@
 geopy
 numpy
-json
+pandas
 os
 matplotlib
