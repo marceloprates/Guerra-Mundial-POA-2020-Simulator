@@ -1,0 +1,8 @@
+wikitables
+geopy
+numpy
+math
+copy
+json
+os
+matplotlib
